@@ -1,9 +1,7 @@
 
 # AINextBill – Purchase Invoice Expense Analysis
 
-## Overview
 
-This repository contains a simple and practical **expense trend analysis** project completed as part of the **Data Science / ML Intern hiring assignment** for **AINextBill Technology Private Limited**.
 
 The focus of this project is **data understanding, accounting logic, and clear insights**, rather than complex machine learning.
 
